@@ -1,6 +1,6 @@
 # Robotic brain tumor surgery
 
-The project simulates how to burn a brain tumor with a puma 560. He first takes samples of the tumor, then proceeds with trepanation, and finally burns the tumor.
+This project simulates how to burn a brain tumor with a puma 560. He first takes samples of the tumor, then proceeds with trepanation, and finally burns the tumor.
 
 This project was presented in the Robotics subject at the Barcelona School of Informatics.
 
