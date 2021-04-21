@@ -14,9 +14,9 @@ Before running the program, make sure you have the entire "Robotic brain tumor s
 
 ## Surgery
 
-Surgery video
+To see the full video, go to the Videos folder
 
-<video src="Videos/Surgery.mp4"></video>
+![Surgery](Videos/Surgery.gif)
 
 
 
@@ -26,4 +26,5 @@ Surgery video
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MarcDV1999/Traffic-Signals-Predictor/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MarcDV1999/Robotic-brain-tumor-surgery/blob/main/LICENSE) file for details
+
