@@ -6,9 +6,19 @@ This project was presented in the Robotics subject at the Barcelona School of In
 
 
 
+## Requirements
+
+Before running the code, make sure you have Matlab's Robotics Toolbox installed.
+
+In order to install the library, follow these steps:
+
+1. Go to the link [Robotics Toolbox](https://petercorke.com/toolboxes/robotics-toolbox/)
+2.  Install from shared MATLAB Drive Folder the [RVC 2nd edition: RTB10+MVTB4 (2017)](https://drive.matlab.com/sharing/e668b3b4-a452-464b-8e6e-77280e6cce21)
+3. To check the robotics ToolBox is installed at the Command  windows tip 'rtbdemo' a GUI will appear.
+
 ## Run
 
-Before running the program, make sure you have the entire "Robotic brain tumor surgery" folder on the path. To run the program you just have to run the project.mlx file.
+Before running the program, make sure you have the entire "Robotic brain tumor surgery" folder on the path and the Matlab's Robotics Toolbox installed. To run the program you just have to run the project.mlx file.
 
 
 
@@ -16,7 +26,7 @@ Before running the program, make sure you have the entire "Robotic brain tumor s
 
 To see the full video, go to the Videos folder
 
-![Surgery](Videos/Surgery.gif)
+<img src="Videos/Surgery.gif" alt="Surgery" style="zoom:150%;" />
 
 
 
